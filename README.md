@@ -15,9 +15,12 @@ Trabajos de la asignatura de Series Temporales
 <li>Se realizar&aacute; una comparaci&oacute;n de las predicciones de los dos modelos.</li>
 </ul>
 
-## StackOverFlow
-
-Analizar los datos de MATLAB, entre otros análisis, se debe graficar la serie, estudiar la estacionalidad y la estacionariedad.
-
-Debemos buscar el mejor modelo predictivo entre los siguientes:
-  ETS, ARIMA, 4Theta y TBATS
+<p>## StackOverFlow</p>
+<p>Analizar los datos de MATLAB, entre otros an&aacute;lisis, se debe graficar la serie, estudiar la estacionalidad y la estacionariedad.</p>
+<p>Debemos buscar el mejor modelo predictivo entre los siguientes:</p>
+<ul>
+<li>ETS</li>
+<li>ARIMA</li>
+<li>4Theta</li>
+<li>TBATS</li>
+</ul>

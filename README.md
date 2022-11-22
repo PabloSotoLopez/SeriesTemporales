@@ -2,7 +2,7 @@
 
 Trabajos de la asignatura de Series Temporales
 
-## aaple
+### aaple
 
 <p>Predicci&oacute;n ventas de Apple.</p>
 <p>Objetivos:</p>
@@ -15,7 +15,7 @@ Trabajos de la asignatura de Series Temporales
 <li>Se realizar&aacute; una comparaci&oacute;n de las predicciones de los dos modelos.</li>
 </ul>
 
-## StackOverFlow
+### StackOverFlow
 <p>Analizar los datos de MATLAB, entre otros an&aacute;lisis, se debe graficar la serie, estudiar la estacionalidad y la estacionariedad.</p>
 <p>Debemos buscar el mejor modelo predictivo entre los siguientes:</p>
 <ul>

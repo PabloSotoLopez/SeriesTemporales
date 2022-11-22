@@ -2,7 +2,7 @@
 
 Trabajos de la asignatura de Series Temporales
 
-### aaple
+### aapl
 
 <p>Predicci&oacute;n ventas de Apple.</p>
 <p>Objetivos:</p>
